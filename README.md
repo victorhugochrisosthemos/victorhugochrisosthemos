@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
   <img align="center" alt="Victor-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="140" height="100" frameBorder="0" class="giphy-embed">
+  <img align="right" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611xt2gdxfn54ecz07rtp7csckrgvjaygpbktq64f9r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="140" height="100" frameBorder="0" class="giphy-embed">
 </div>
  
 <div> <br>
