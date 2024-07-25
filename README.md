@@ -16,9 +16,9 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
   
 <div>
   <a href="https://github.com/victorhugochrisosthemos">
-    
+    <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugochrisosthemos&show_icons=true&theme=tokyonight">
-   
+    -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugochrisosthemos&hide_progress=true&theme=tokyonight">
 </div>
 
