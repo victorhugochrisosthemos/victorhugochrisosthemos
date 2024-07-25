@@ -9,16 +9,16 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 ### Hi, I'm Victor Chrisosthemos 👋 🔬 🔍  💻 🌐 📈 📊 🧬 👨‍🔬 🔋
 
 - 🔭 I’m currently working on technicial suport at Intelbras
-- 🌱 I’m currently learning Science Computing at UNIVALI
+- 🌱 I’m currently a science computing student at UNIVALI
 - 👯 I’m looking to collaborate on academic research and interesting projects
 - 🤔 I’m looking for help with new group of people excited about building optimizations and creating solutions to problems in our society
 - 📫 How to reach me: victor_lampert@outlook.com
   
 <div>
   <a href="https://github.com/victorhugochrisosthemos">
-    <!--
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugochrisosthemos&show_icons=true&theme=tokyonight">
-    -->
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugochrisosthemos&hide_progress=true&theme=tokyonight">
 </div>
 
