@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
     <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugochrisosthemos&show_icons=true&theme=tokyonight">
     -->
+ <!--
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorhugochrisosthemos&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=0d1117" alt="Victor Chrisosthemos github stats" /> 
+   -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugochrisosthemos&hide_progress=true&theme=tokyonight">
 </div>
 
@@ -41,9 +44,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
   <a href="https://www.linkedin.com/in/victor-c-6a9081b0/recent-activity/all/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-<div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorhugochrisosthemos&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=0d1117" alt="Victor Chrisosthemos github stats" /> 
-</div>
+
 
 <!--
   <div align="center">
