@@ -6,6 +6,9 @@ Snake Game
 https://www.youtube.com/watch?v=MZT37vCQ-4Y
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+complete+name+is+Victor+Hugo+Chrisosthemos+Teixeira;I+am+a+Science+Computer+Student;Be+Welcome!+=%29)](https://git.io/typing-svg)
+
+
 ### Hi, I'm Victor Chrisosthemos 👋 🔬 🔍  💻 🌐 📈 📊 🧬 👨‍🔬 🔋
 
 - 🔭 I’m currently working on technicial suport at Intelbras
