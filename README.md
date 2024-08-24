@@ -6,7 +6,7 @@ Snake Game
 https://www.youtube.com/watch?v=MZT37vCQ-4Y
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Victor+Chrisosthemos;I+am+a+Science+Computer+Student;Be+Welcome!+=%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Victor+Chrisosthemos;I+am+a+Science+Computer+Student;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 
 ### Hi, I'm Victor Chrisosthemos 👋 🔬 🔍  💻 🌐 📈 📊 🧬 👨‍🔬 🔋
