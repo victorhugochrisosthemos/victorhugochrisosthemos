@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
     <b>Visitors Count</b>
   </p>  
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{erikdmcosta}/count.svg" />
+    <img align="center" src="https://profile-counter.glitch.me/{victorhugochrisosthemos}/count.svg" />
   </p> 
   <br>
 </div>
