@@ -14,10 +14,10 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 ### Hi, I'm Victor Chrisosthemos 👋 🔬 🔍  💻 🌐 📈 📊 🧬 👨‍🔬 🔋
 -->
 
-- 🔭 I’m currently working on technicial suport at Intelbras
-- 🌱 I’m currently a science computing student at UNIVALI
-- 👯 I’m looking to collaborate on academic research and interesting projects
-- 🤔 I’m looking for help with new group of people excited about building optimizations and creating solutions to problems in our society
+- 🔭 I’m currently working on technicial suport analyst at Intelbras
+- 🤔 I like to develop
+- 🔎 I’m looking to collaborate on academic research and interesting projects
+- 🚀 I'm constantly improving are problem solving, being more collaborative and improving my communication
 - 📫 How to reach me: victor_lampert@outlook.com
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
