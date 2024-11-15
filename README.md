@@ -1,3 +1,8 @@
+![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+
+
+
+
 <!--
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
 https://devicon.dev/
