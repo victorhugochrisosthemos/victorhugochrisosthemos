@@ -1,7 +1,5 @@
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/victorhugochrisosthemos/victorhugochrisosthemos/output/github-contribution-grid-snake-dark.svg)
 
-
-![idimetrix's github activity graph](https://raw.githubusercontent.com/victorhugochrisosthemos/victorhugochrisosthemos/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
