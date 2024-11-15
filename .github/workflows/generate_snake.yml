@@ -1,9 +1,10 @@
 name: Generate Snake Animation
 
 on:
+  # Executa a cada 6 horas
   schedule:
-    # Atualiza a cada 6 horas
     - cron: "0 */6 * * *"
+  # Permite executar manualmente o workflow
   workflow_dispatch:
 
 jobs:
@@ -11,20 +12,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Baixa o repositório
+      # Passo 1: Baixar o repositório
       - name: Clone the repository
         uses: actions/checkout@v3
 
-      # Configura o Snake Animation
+      # Passo 2: Gerar a animação da cobra
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: victorhugochrisosthemos
+          github_user_name: victorhugochrisosthemos # Seu nome de usuário no GitHub
           outputs: dist/snake.svg
 
-      # Faz upload para a branch `output`
-      - name: Upload the animation
-        uses: actions/upload-artifact@v3
+      # Passo 3: Fazer o upload do arquivo gerado para a branch "output"
+      - name: Commit and push the animation
+        uses: EndBug/add-and-commit@v9
         with:
-          name: snake-animation
-          path: dist/snake.svg
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "Generated snake animation"
+          add: dist/snake.svg
