@@ -5,7 +5,7 @@ https://devicon.dev/
 Snake Game
 https://www.youtube.com/watch?v=MZT37vCQ-4Y
 -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&left=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Victor+Chrisosthemos;I+am+a+Science+Computer+Student;Be+Welcome!+=%29)](https://git.io/typing-svg)
 -->
@@ -19,7 +19,9 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 - 👯 I’m looking to collaborate on academic research and interesting projects
 - 🤔 I’m looking for help with new group of people excited about building optimizations and creating solutions to problems in our society
 - 📫 How to reach me: victor_lampert@outlook.com
-  
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <div>
   <a href="https://github.com/victorhugochrisosthemos">
     <!--
