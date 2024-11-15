@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Atualiza a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Baixa o repositório
+      - name: Clone the repository
+        uses: actions/checkout@v3
+
+      # Configura o Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: victorhugochrisosthemos
+          outputs: dist/snake.svg
+
+      # Faz upload para a branch `output`
+      - name: Upload the animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: dist/snake.svg
