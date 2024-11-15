@@ -42,11 +42,11 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611xt2gdxfn54ecz07rtp7csckrgvjaygpbktq64f9r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="140" height="100" frameBorder="0" class="giphy-embed">
 </div>
- 
+<!-- 
 <div> <br>
   <a href="https://www.linkedin.com/in/victor-c-6a9081b0/recent-activity/all/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
+-->
 
 
 <!--
