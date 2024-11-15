@@ -1,4 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/victorhugochrisosthemos/victorhugochrisosthemos/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
