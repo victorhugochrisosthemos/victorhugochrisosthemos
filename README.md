@@ -51,7 +51,9 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
   <a href="https://www.linkedin.com/in/victor-c-6a9081b0/recent-activity/all/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorhugochrisosthemos&bg_color=0d1117&color=ff79c6&line=b13583&point=6272a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <br> <br> <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorhugochrisosthemos&bg_color=00BFFF&color=ff79c6&line=b13583&point=6272a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
   <div align="center">
