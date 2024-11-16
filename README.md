@@ -16,11 +16,12 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 ### Hi, I'm Victor Chrisosthemos 👋 🔬 🔍  💻 🌐 📈 📊 🧬 👨‍🔬 🔋
 -->
 
-- 🔭 I’m currently working on technicial suport analyst at Intelbras
-- 🤔 I like to develop
-- 🔎 I’m looking to collaborate on academic research and interesting projects
-- 🚀 I'm constantly improving are problem solving, being more collaborative and improving my communication
-- 📫 How to reach me: victor_lampert@outlook.com
+- 🔭 Currently working as a Technical Support Analyst at Intelbras.
+- 🤔 Looking to collaborate on academic research and innovative projects.
+- 🚀 Focused on enhancing problem-solving skills, fostering collaboration, and improving communication.
+- 🔎 Passionate about learning and being part of solutions.
+- 📫 Feel free to reach me at: victor_lampert@outlook.com.
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
