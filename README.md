@@ -53,7 +53,9 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 
  <br> <br> <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorhugochrisosthemos&bg_color=00BFFF&color=ff79c6&line=b13583&point=6272a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorhugochrisosthemos&bg_color=0d1117&color=ff79c6&line=b13583&point=6272a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <!--
   <div align="center">
