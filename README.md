@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 - 🤔 Looking to collaborate on academic research and innovative projects.
 - 🚀 Focused on enhancing problem-solving skills, fostering collaboration, and improving communication.
 - 🔎 Passionate about learning and being part of solutions.
-- 📫 Feel free to reach me at: victor_lampert@outlook.com.
+- 📫 Feel free to reach me at: victor_lampert@outlook.com
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
