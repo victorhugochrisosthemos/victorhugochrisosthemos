@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=MZT37vCQ-4Y
 ### Hi, I'm Victor Chrisosthemos 👋 🔬 🔍  💻 🌐 📈 📊 🧬 👨‍🔬 🔋
 -->
 
-- 🔭 Currently working as a Technical Support Analyst at Intelbras.
+- 🔭 Currently working as a Data Analyst at Intelbras.
 - 🤔 Looking to collaborate on academic research and innovative projects.
 - 🚀 Focused on enhancing problem-solving skills, fostering collaboration, and improving communication.
 - 🔎 Passionate about learning and being part of solutions.
